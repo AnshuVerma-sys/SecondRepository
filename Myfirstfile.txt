@@ -1,2 +1,3 @@
 Change made by developer2
 Changes made by developer 1
+Change made to understand .git
